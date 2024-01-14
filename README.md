@@ -63,6 +63,11 @@ Access the Web App:
 Open your web browser and go to http://localhost:8501.
 You should see the Streamlit web app for customer churn prediction.
 
+**Architecture:**
+
+<img width="769" alt="image" src="https://github.com/naveen-6735/Customer-Churn-Prediction-Model-with-Streamlit-and-Docker/blob/main/images/Streamlit-Docker-Diagram.png.webp">
+
+
 Notes:
 If you encounter any issues, make sure Docker Desktop is running and properly configured on your Windows machine.
 Ensure that port 8501 is not in use by another application on your system.
