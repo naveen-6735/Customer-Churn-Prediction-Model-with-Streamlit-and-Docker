@@ -13,16 +13,24 @@ $ tree
 ├── Dockerfile
 
 ├── Pipfile
+
 ├── Pipfile.lock
+
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+
 ├── train.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── images
 │   ├── churndemo.gif
 │   ├── icone.png
 │   └── image.png
+
 ├── model_C=1.0.bin
+
 └── stream_app.py
 
 ## Prerequisite:
