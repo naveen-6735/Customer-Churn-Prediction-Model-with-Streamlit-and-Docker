@@ -2,8 +2,6 @@
 
 
 
-[![Docker Extension for RedisInsight](http://img.youtube.com/vi/RhRIFjyzIqU/hqdefault.jpg)](https://www.youtube.com/embed/RhRIFjyzIqU)
-
 
 
 
