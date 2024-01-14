@@ -66,9 +66,10 @@ If you don't have Git installed, download and install it from Git's official web
 git clone https://github.com/docker/getting-started.git
 
 **Project Execution:**
-**-->**Navigate to the Project Directory:
 
-**-->**Change your current directory to the project folder:
+**-->**     Navigate to the Project Directory:
+
+**-->**     Change your current directory to the project folder:
 
 **cd your directory**
 
