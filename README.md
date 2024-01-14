@@ -4,7 +4,9 @@
 
 
 **Our project directory structure should look like this:**
+
 $ tree
+
 .
 ├── Churn_EDA_model_development.ipynb
 
