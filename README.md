@@ -75,7 +75,7 @@ This should guide you through the process of setting up and running the customer
 
 
 
-<img width="769" alt="image" src="https://user-images.githubusercontent.com/313480/182178628-56770a72-d8fd-4fe8-9d7d-e2cc7b59d731.png](https://github.com/naveen-6735/Customer-Churn-Prediction-Model-with-Streamlit-and-Docker/blob/main/images/Design.gif)https://github.com/naveen-6735/Customer-Churn-Prediction-Model-with-Streamlit-and-Docker/blob/main/images/Design.gif">
+<img width="769" alt="image" src="https://github.com/naveen-6735/Customer-Churn-Prediction-Model-with-Streamlit-and-Docker/blob/main/images/Design.gif">
 
 
 
