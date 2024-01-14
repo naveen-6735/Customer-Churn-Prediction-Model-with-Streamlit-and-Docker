@@ -96,11 +96,5 @@ This should guide you through the process of setting up and running the customer
 <img width="769" alt="image" src="https://user-images.githubusercontent.com/313480/182178628-56770a72-d8fd-4fe8-9d7d-e2cc7b59d731.png">
 
 
-## Blog Post
 
-- https://www.docker.com/blog/how-to-develop-and-deploy-a-customer-churn-prediction-model-using-python-streamlit-and-docker/
-
-## Videos
-
-- https://www.youtube.com/watch?v=RhRIFjyzIqU&t=34s
 
