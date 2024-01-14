@@ -25,9 +25,9 @@ $ tree
 ├── README.md
 
 ├── images
-│   ├── churndemo.gif
-│   ├── icone.png
-│   └── image.png
+│   
+│ 
+│   
 
 ├── model_C=1.0.bin
 
