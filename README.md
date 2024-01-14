@@ -3,7 +3,41 @@
 
 
 
-
+**Our project directory structure should look like this:**
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+$ tree
+.
+├── Churn_EDA_model_development.ipynb
+├── Churn_model_metrics.ipynb
+├── Dockerfile
+├── Pipfile
+├── Pipfile.lock
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+├── train.py
+├── requirements.txt
+├── README.md
+├── images
+│   ├── churndemo.gif
+│   ├── icone.png
+│   └── image.png
+├── model_C=1.0.bin
+└── stream_app.py
 
 ## Prerequisite:
 
