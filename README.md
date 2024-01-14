@@ -7,7 +7,6 @@
 
 $ tree
 
-.
 ├── Churn_EDA_model_development.ipynb
 
 ├── Churn_model_metrics.ipynb
@@ -26,10 +25,7 @@ $ tree
 
 ├── README.md
 
-├── images
-│   
-│ 
-│   
+├── images  
 
 ├── model_C=1.0.bin
 
